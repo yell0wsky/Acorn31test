@@ -8,7 +8,7 @@
 <title>1조 연습문서</title>
 </head>
 <body>
-<p>황하늘이 작성함</p>
+<p>황하늘이 작성함 박종혁이 작성함</p>
 <a href="/movie.do">무비로 가게 해주세요</a>
 
 </body>

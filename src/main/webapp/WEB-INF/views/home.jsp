@@ -9,7 +9,7 @@
 </head>
 <body>
 <p>황하늘이 작성함 박종혁이 작성함</p>
-<a href="/movie.do">무비로 가게 해주세요</a>
+<a href="${pageContext.request.contextPath}/movie.do">무비로 가게 해주세요</a>
 <p>황하늘이 작성함2 박종혁이 작성함2 박종혁이 작성함3</p>
 <p>황하늘이 작성함4시 29분 30분 40분 1시40분 성공</p>
 <p>박종혁이 작성함1시56분</p>

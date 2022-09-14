@@ -12,6 +12,7 @@
      <h1>movie page</h1>
      <p>movie review</p>
      <a href="${pageContext.request.contextPath}/">index page</a>
+     <p>테스트인가요?</p>
 </div>
 </body>
 </html>
